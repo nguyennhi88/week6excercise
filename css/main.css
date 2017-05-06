@@ -1,0 +1,20 @@
+h1{
+	font-size:20px;
+	color:red;
+}
+.main2{
+	color:blue;
+	font-size:40px;
+	font-weight: bold;
+}
+.main3{
+	height: 100px;
+	width:100px;
+	background-color: red;
+}
+.main4{
+	height: 100px;
+	width:100px;
+	background-color: blue;
+	float: right;
+}
